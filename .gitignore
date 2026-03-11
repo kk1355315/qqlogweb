@@ -1,0 +1,8 @@
+.venv/
+_tmp/
+__pycache__/
+*.pyc
+
+# Local data/cache files that are too large or sensitive for GitHub
+nt_msg_clean.db
+web/backend/.cache_embeddings_*.sqlite3
